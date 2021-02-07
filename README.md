@@ -72,7 +72,7 @@ npm install yarn -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/ottomated/CrewLink.git
+git clone https://github.com/olivbau/CrewLink.git
 cd CrewLink
 ```
 2. Install NPM packages
